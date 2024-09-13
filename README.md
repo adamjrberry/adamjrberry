@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Berry
 - 👀 I’m interested in Open Source software and development
-- 🌱 I’m currently learning Linux, Automation and Powershell
+- 🌱 I’m currently learning Linux and Automation through API Programming, Python and Powershell
 - 💞️ I’m looking to collaborate on Linux projects, web development etc.
 - 📫 How to reach me : email adam.berry[at]racklab.io
 
